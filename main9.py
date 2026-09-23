@@ -1,0 +1,5 @@
+a=int(input('Enter a subject marks out of 50: '))
+b=int(input('Enter b subject marks out of 50: '))
+c=int(input('Enter c subject marks out of 50: '))
+print(f'The total marks is {a+b+c}')
+print(f'The percentage is {(a+b+c)/150*100}')
